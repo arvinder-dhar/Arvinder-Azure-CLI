@@ -1,0 +1,3 @@
+Convert all Azure PowerShell scripts in AZ CLI
+
+Include CLI Install instructions as well.. (Windows-Only) and how to connect
